@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Movie Watchlist</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!--font awesome-->
+        <script src="https://kit.fontawesome.com/e94295be40.js" crossorigin="anonymous">
+        </script>
+        <!--Google font-->
+       <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+          <!--css link-->
+        <link rel="stylesheet" href="index.css">
+    </head>
+    
+    <!-- watchlist.html -->
+    <body class="watchlist-page">
+
+        <div class="page-layout">
+            <div class="header">
+                    <h1>My Watchlist</h1>
+                      <a href="index.html" ><p class="page-link">Search for movies</p></a>
+            </div>
+            
+            <div id="start-screen" class="main">
+                    <h2 class="main-h2">Your watchlist is looking a little empty...</h2>
+                    <a href="index.html"><p class="page-link"><i class="fa-solid fa-circle-plus plus-icon" data-id="${fullMovie.imdbID}"></i> Let’s add some movies!</p></a> 
+            </div> 
+             
+                <div id="movie-container" class="movie-container"></div>
+       
+        </div>
+        <script src="watchlist.js" defer></script>
+        
+    </body>
+</html>
