@@ -39,13 +39,13 @@ Although building an API that works across pages was a big challenge, seeing the
 
 ### 🔗 Live Links
 
-- [Live Site on Netlify](https://deluxe-frangipane-e479d2.netlify.app/watchlist)  
+- [Live Site on Netlify](https://peppy-biscuit-7a33e0.netlify.app/)
 - [View Code on GitHub](https://github.com/martymar-beep/Movie-Watchlist)
 
 ### 🙋‍♀️ Author
 
 Margaret Martin  
-[Portfolio](https://astounding-muffin-e43077.netlify.app/))   
+[Portfolio](https://astounding-muffin-e43077.netlify.app/)   
 [LinkedIn](https://www.linkedin.com/in/margaret-martin-55807438/)  
 Email: devmartin.codes\[at]outlook\[dot]com
 
