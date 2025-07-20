@@ -45,7 +45,9 @@ Although building an API that works across pages was a big challenge, seeing the
 ### 🙋‍♀️ Author
 
 Margaret Martin  
-[Portfolio](https://astounding-muffin-e43077.netlify.app/)   
-[LinkedIn](https://www.linkedin.com/in/margaret-martin-55807438/)  
+- [Portfolio](https://astounding-muffin-e43077.netlify.app/)  
+- [LinkedIn](https://www.linkedin.com/in/margaret-martin-55807438/)  
 Email: devmartin.codes\[at]outlook\[dot]com
+
+
 
